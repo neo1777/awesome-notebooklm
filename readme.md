@@ -41,6 +41,7 @@ A curated list of tools related to notebooklm as well as examples of great podca
 
 - [Gipety hacker news casts](https://news.gipety.com/) - Podcasts of selected hacker news threads.
 - [Adding lipsync-ed talking heads to podcast audio](https://andresvarela.com/2024/09/how-i-used-notebooklm-for-an-elevator-pitch/) - Overview of the podcast technology with free/freemium tools to go further and generate avatars.
+- [HCI Deep Dives](https://www.deep-hci.org/) - Podcasts of selected Human Computer Interaction Papers using NotebookML and podcastfy.
 
 ## Community
 
